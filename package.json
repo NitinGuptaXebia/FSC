@@ -1,0 +1,22 @@
+{
+  "name": "fsc_cfp",
+  "version": "1.0.0",
+  "description": "Full Stack Conf CFP Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitinGuptaXebia/FSC.git"
+  },
+  "keywords": [
+    "FSC"
+  ],
+  "author": "Nitin Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NitinGuptaXebia/FSC/issues"
+  },
+  "homepage": "https://github.com/NitinGuptaXebia/FSC#readme"
+}
